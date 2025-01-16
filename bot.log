@@ -1,0 +1,4 @@
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+ERROR:root:Error posting to Reddit: unauthorized_client error processing request (Only script apps may use password auth)
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Post successful!
