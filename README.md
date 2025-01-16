@@ -25,20 +25,20 @@ This bot uses **Groq AI** to generate and post engaging content automatically to
 ## Most IMP thing in this Project
 ## Create .env file and add this code
 
-reddit_client_id=your_reddit_client_id
-reddit_client_secret=your_reddit_client_secret
-reddit_username=your_reddit_username
-reddit_password=your_reddit_password
-groq_api_key=your_groq_api_key
+reddit_client_id=your_reddit_client_id <br>
+reddit_client_secret=your_reddit_client_secret <br>
+reddit_username=your_reddit_username <br>
+reddit_password=your_reddit_password <br>
+groq_api_key=your_groq_api_key <br>
 
-to credeate reddit clint id visit -> https://www.reddit.com/prefs/apps 
-Fill out the details:
-Name: Your bot's name.
-App Type: Choose "Script" (important!).
-Description: Optional, but you can describe your app.
-About URL: Optional.
-Redirect URI: Set this to http://localhost:8080 (or leave blank for script apps)
-
+to credeate reddit clint id visit -> https://www.reddit.com/prefs/apps <br>
+Fill out the details: <br>
+Name: Your bot's name. <br>
+App Type: Choose "Script" (important!). <br>
+Description: Optional, but you can describe your app.<br>
+About URL: Optional. <br>
+Redirect URI: Set this to http://localhost:8080 (or leave blank for script apps) <br>
+<br>
 and For Groq api visit -> https://console.groq.com/keys 
-
+<br>
 also attached a proof as Screentshot(94) so you can verfiy that!!!
